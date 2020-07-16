@@ -16,7 +16,7 @@ Search for 'Hammer Home' under the filter packages found in Setup -> Add modules
 
 Copy the manifest url below and paste it into Manifest URL. Click install.
 
-`https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/master/module.json`
+`https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-DnD-Audio-Bundle-Hammer-Home/master/module.json`
 
 ![](.github/manifest.png?raw=true)
 
