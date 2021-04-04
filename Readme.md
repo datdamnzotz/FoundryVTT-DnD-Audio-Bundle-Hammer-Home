@@ -3,6 +3,7 @@
 The sweet sweet sounds of the small Hamlet of Hammer Home
 
 ![All Downloads](https://img.shields.io/github/downloads/datdamnzotz/FoundryVTT-DnD-Audio-Bundle-Hammer-Home/total?style=for-the-badge)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/datdamnzotz/FoundryVTT-DnD-Audio-Bundle-Hammer-Home?style=for-the-badge)
 
 Featuring:
 
