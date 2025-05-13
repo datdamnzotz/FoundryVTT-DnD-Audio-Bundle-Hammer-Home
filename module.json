@@ -16,7 +16,7 @@
   ],
   "packs": [
     {
-      "name": "Hammer Home",
+      "name": "HammerHome",
       "label": "Hammer Home",
       "path": "/packs/playlist1.db",
       "entity": "Playlist",
