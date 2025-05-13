@@ -2,7 +2,7 @@
   "id":  "dndAudioBundleHammerHome",
   "title": "D&D Audio Bundle - Hammer Home",
   "description": "<p>The sounds of the small Hammlet of Hammer Home, blacksmith, docks, 2 inns/taverns, haunted forest, market, on the road, and wet dungeons.</p><p>41 MB</p><p>8 files</p>",
-  "version": "1.9",
+  "version": "2.0",
   "compatibility": {
       "minimum": "0.5.0",
       "verified": 12
@@ -25,5 +25,5 @@
   ],
   "url": "https://github.com/datdamnzotz/FoundryVTT-DnD-Audio-Bundle-Hammer-Home",
   "manifest": "https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-DnD-Audio-Bundle-Hammer-Home/master/module.json",
-  "download": "https://github.com/datdamnzotz/FoundryVTT-DnD-Audio-Bundle-Hammer-Home/releases/download/v1.9/v1.9.zip"
+  "download": "https://github.com/datdamnzotz/FoundryVTT-DnD-Audio-Bundle-Hammer-Home/releases/download/v2.0/v2.0.zip"
 }
