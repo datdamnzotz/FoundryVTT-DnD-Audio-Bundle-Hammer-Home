@@ -1,5 +1,5 @@
 {
-  "id":  "dndAudioBundle-HammerHome",
+  "id":  "dndAudioBundleHammerHome",
   "title": "D&D Audio Bundle - Hammer Home",
   "description": "<p>The sounds of the small Hammlet of Hammer Home, blacksmith, docks, 2 inns/taverns, haunted forest, market, on the road, and wet dungeons.</p><p>41 MB</p><p>8 files</p>",
   "version": "1.9",
@@ -9,7 +9,7 @@
   },
   "authors": [
     {
-      "id": "DatDamnZotz",
+      "name": "DatDamnZotz",
       "discord": "DatDamnZotz#7962",
       "email": "thdm@dungeonmastersvault.com"
     }
